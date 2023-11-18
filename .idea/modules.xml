@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wjy/BS/BS.iml" filepath="$PROJECT_DIR$/wjy/BS/BS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjy/okableaw/BS/BS1.iml" filepath="$PROJECT_DIR$/wjy/okableaw/BS/BS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjy/CS2/CS2.iml" filepath="$PROJECT_DIR$/wjy/CS2/CS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjy/okableaw/CS2/CS21.iml" filepath="$PROJECT_DIR$/wjy/okableaw/CS2/CS21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjy/CS3/CS3.iml" filepath="$PROJECT_DIR$/wjy/CS3/CS3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wjy/okableaw/CS3/CS31.iml" filepath="$PROJECT_DIR$/wjy/okableaw/CS3/CS31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wjy.iml" filepath="$PROJECT_DIR$/.idea/wjy.iml" />
+    </modules>
+  </component>
+</project>
